@@ -1,6 +1,6 @@
 
 
-## hhtps://github.com/AskonaLi/ono-tebe-nado.git - ссылка на мой (Колесников Максим) GitHub репозиторий
+## hhtps://github.com/Nastasiaviva/ono-tebe-nado.git - ссылка на мой (Колесников Максим) GitHub репозиторий
 
 ----
 
